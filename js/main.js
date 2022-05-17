@@ -11,4 +11,5 @@ const cognome = prompt("inserisci il tuo cognome");
 const colorePreferito = prompt("inserisci il tuo colore preferito");
 
 const pwGenerated = document.getElementById("password");
-pwGenerated.innerHTML = ` la tua password generata è ${nome}${cognome}${colorePreferito}2022 `;
+pwGenerated.innerHTML = ` <h1>La tua password generata è : </h1> <br>
+<p>${nome}${cognome}${colorePreferito}2022</p> `;

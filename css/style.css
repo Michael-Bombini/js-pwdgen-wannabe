@@ -1,0 +1,21 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+#password {
+
+    text-align: center;
+}
+
+#password h1 {
+    display: inline-block;
+    border-bottom: 1px solid #00FF41;
+}
+
+#password p {
+    font-size: 1.6rem;
+    border: 2px solid #00FF41;
+    display: inline-block;
+    padding: 1.3rem 1.5rem;
+}
